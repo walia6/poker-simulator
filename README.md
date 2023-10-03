@@ -2,7 +2,7 @@
 
 ## Overview
 
-Poker Simulator is a comprehensive Java application designed to simulate and analyze poker games. Using a combination of multi-threading and Monte Carlo analysis (https://en.wikipedia.org/wiki/Monte_Carlo_method), the software aims to provide both the statistical probabilities of having a type of hand among any given 7-card hand, and generate a table containing the heads up odds for any two sets of holecards (https://caniwin.com/texasholdem/preflop/heads-up.php). Developed with the principles of Object-Oriented Programming (OOP), and Test-Driven Development (TDD) this software is optimized for performance, scalability, and ease of use.
+Poker Simulator is a comprehensive Java application designed to simulate and analyze poker games. Using a combination of multi-threading and Monte Carlo analysis (https://en.wikipedia.org/wiki/Monte_Carlo_method), the software aims to provide both the statistical probabilities of having a type of hand among any given 5-card hand (https://en.wikipedia.org/wiki/Poker_probability), and generate a table containing the heads up odds for any two sets of holecards (https://caniwin.com/texasholdem/preflop/heads-up.php). Developed with the principles of Object-Oriented Programming (OOP), and Test-Driven Development (TDD) this software is optimized for performance, scalability, and ease of use.
 
 ## Features
 
