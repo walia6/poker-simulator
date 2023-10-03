@@ -6,7 +6,6 @@ Poker Simulator is a comprehensive Java application designed to simulate and ana
 
 ## Features
 
-- **Efficient Algorithms**: Utilizes advanced methods for simulating poker hands and games.
 - **Multi-threaded**: Leverages multiple cores to more quickly execute embarrasingly parallel (https://en.wikipedia.org/wiki/Embarrassingly_parallel) tasks.
 - **Statistical Analysis**: Provides detailed stats related to hand probabilities and game outcomes.
 - **Flexible Execution**: Command-line options to adjust the number of threads and iterations.
